@@ -9,7 +9,7 @@ basePath: /
 schemes:
   # Uncomment for local dev:
   # - http
-  - https
+  #- https
 # format of bodies a client can send (Content-Type)
 consumes:
   - application/json
